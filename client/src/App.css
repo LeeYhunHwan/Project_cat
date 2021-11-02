@@ -1,0 +1,7 @@
+*{margin: 0; padding: 0; list-style: none;}
+/* component/nav */
+#nav-body{background: #ddd; display: flex; justify-content: space-between; padding: 20px;}
+#nav-body h1{font-size: 21px;}
+#nav-body ul{display: flex; justify-content: space-between;}
+#nav-body ul li{}
+#nav-body ul li button{}
