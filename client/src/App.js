@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
+import './reset.css';
 
 import {
   BrowserRouter as Router,
